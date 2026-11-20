@@ -1,0 +1,12 @@
+.git
+.gitignore
+.idea
+*.iml
+.vscode
+.DS_Store
+target/classes
+target/generated-sources
+target/maven-status
+target/surefire-reports
+target/test-classes
+target/*.jar.original
